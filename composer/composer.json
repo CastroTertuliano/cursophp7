@@ -1,0 +1,13 @@
+{
+    "name": "tertu710/composer",
+    "description": "Composer criado para a aula do curso do php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tertuliano Castro",
+            "email": "tertulianocastro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"monolog/monolog": "1.0.*"}
+}
