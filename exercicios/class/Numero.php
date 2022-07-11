@@ -66,6 +66,14 @@ class Numero{
 
     }
 
+    public function calculaPIM($num)
+    {
+
+        return ((62.1*$num)-44.7);
+
+    }
+
+
         
 
 
