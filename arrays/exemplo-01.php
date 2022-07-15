@@ -1,6 +1,6 @@
 <?php
 
-//cria um array e coloca strings la
+//cria um array e coloca strings
 
 $frutas = array("laranja", "abacaxi", "mamão");
 
